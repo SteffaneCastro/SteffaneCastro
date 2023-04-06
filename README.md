@@ -4,6 +4,14 @@
 - 👩🏽‍💻 Sou estudante de graduação em Ciência da Computação no IFMA (Instituto Federal de Educação, Ciência e Tecnologia do Maranhão), sou apaixonada por front-end.
 - 📖 Eu estudo HTML, CSS e JavaScript.
 <h4/>
+  <center>
+<table>
+    <tr>
+        <td><img width="520px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffaneCastro&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=SteffaneCastro&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>   
 <h2>Linguagems de Programação: <h2/>
 <div>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
