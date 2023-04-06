@@ -1,14 +1,13 @@
 ### <h1> Olá! Eu sou Steffane 👋🏽<h1/>
-<h4>
-  
+<h4> 
 - 👩🏽‍💻 Sou estudante de graduação em Ciência da Computação no IFMA (Instituto Federal de Educação, Ciência e Tecnologia do Maranhão), sou apaixonada por front-end.
 - 📖 Eu estudo HTML, CSS e JavaScript.
 <h4/>
   <center>
 <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffaneCastro&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SteffaneCastro&theme=buefy"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteffaneCastro&hide=html&layout=compact&theme=radical&show_icons=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=SteffaneCastro&theme=radical&show_icons=true"/></td>
     </tr>   
 </table>
 </center>   
