@@ -1,8 +1,9 @@
 ### <h1> Olá! Eu sou Steffane 👋🏽<h1/>
-<h4> 
-- 👩🏽‍💻 Sou estudante de graduação em Ciência da Computação no IFMA (Instituto Federal de Educação, Ciência e Tecnologia do Maranhão), sou apaixonada por front-end.
-- 📖 Eu estudo HTML, CSS e JavaScript.
-<h4/>
+<h3> 
+👩🏽‍💻 Sou estudante de graduação em Ciência da Computação no IFMA (Instituto Federal de Educação, Ciência e Tecnologia do Maranhão), sou apaixonada por front-end.
+
+📖 Eu estudo HTML, CSS e JavaScript.
+<h3/>
   <center>
 <table>
     <tr>
@@ -27,11 +28,11 @@
 </div>
   
 <h2>Hobbies e Interesses<h2/>
-<h4>
+<h3>
   
 - Sou uma intusiasta pelo Universo Maker 
   
 - No tempo livre amo 📚 ler, 🎥 criar vídeos para o TikTok, 📺 assistir "O SENHO DOS ANÉIS" kkkk...
 - Assisto vários 🎥 animes como Naruto, Komi Can't Communicate, Ajin: Demi-Human...
 - Sou uma 📺 dorameiro de plantão, os que eu mais gostei foram: Descendants of the Sun, Vincenzo, It's okay to not be okay, Business Proposal...
-<h4/>
+<h3/>
