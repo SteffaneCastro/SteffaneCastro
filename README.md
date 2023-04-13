@@ -2,7 +2,7 @@
 <h3> 
 👩🏽‍💻 Sou estudante de graduação em Ciência da Computação no IFMA (Instituto Federal de Educação, Ciência e Tecnologia do Maranhão), sou apaixonada por front-end.
 
-📖 Eu estudo HTML, CSS e JavaScript.
+📖 Eu estou estudando HTML, CSS e JavaScript e ux design.
 <h3/>
   <center>
 <table>
