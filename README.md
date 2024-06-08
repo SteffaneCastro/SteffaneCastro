@@ -6,7 +6,7 @@
 
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. <br>
 
-⚡ Aqui está um link para meu LinkedIn: <a href='[https://www.freecodecamp.org/](https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/)'><button>Link para o LinkedIn</button></a> <br>
+⚡ Aqui está um link para meu LinkedIn: <a href='https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/'><button>Link para o LinkedIn</button></a> <br>
 
 😄 Obrigado por visitar meu perfil
 <h3/>
