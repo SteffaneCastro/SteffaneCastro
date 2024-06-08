@@ -1,12 +1,12 @@
 ### <h1> Olá! Eu sou Steffane Castro👋🏽<h1/>
 <h3> 
-👩🏽‍💻 Atualmente estudo Ciência da Computação no IFMA (Instituto Federal do Maranhão), sou apaixonada por front-end, Robótica e UX design.
-📖 Dou aulas de Robótica para alunos do Ensino Fundamental.
-🔭 Estou interessada em trabalhar em projetos que me tornem uma mentora e programadora melhor.
+👩🏽‍💻 Atualmente estudo Ciência da Computação no IFMA (Instituto Federal do Maranhão), sou apaixonada por front-end, Robótica e UX design. <br>
+📖 Dou aulas de Robótica para alunos do Ensino Fundamental. <br>
+🔭 Estou interessada em trabalhar em projetos que me tornem uma mentora e programadora melhor. <br>
 
-📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
+📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. <br>
 
-⚡ Aqui está um link para meu LinkedIn: https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/
+⚡ Aqui está um link para meu LinkedIn: https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/ <br>
 
 😄 Obrigado por visitar meu perfil
 <h3/>
