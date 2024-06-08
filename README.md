@@ -13,11 +13,12 @@
 
 <h2>✨ Áreas de Interesse: <h2/>
   <h3>
-    Sistemas Embarcados
+    <li>Sistemas Embarcados
     Internet das Coisas
     Movimento Maker
     Robótica Educacional
-    UX
+    UX design
+    Front-end</li>
   </h3>
   <center>
 <table>
