@@ -35,7 +35,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arduino" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png">
-  <img align="center" alt="Figma" height="40" width="40" src="[https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png](https://www.pngwing.com/en/free-png-aglpb)">
+  <img align="center" alt="Figma" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </div>
   
 <h2>❤️ Hobbies<h2/>
