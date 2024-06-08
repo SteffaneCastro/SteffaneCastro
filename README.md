@@ -6,10 +6,19 @@
 
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. <br>
 
-⚡ Aqui está um link para meu LinkedIn: https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/ <br>
+⚡ Aqui está um link para meu LinkedIn: <a href='[https://www.freecodecamp.org/](https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/)'><button>Link para o LinkedIn</button></a> <br>
 
 😄 Obrigado por visitar meu perfil
 <h3/>
+
+<h2>✨ Áreas de Interesse: <h2/>
+  <h3>
+    Sistemas Embarcados
+    Internet das Coisas
+    Movimento Maker
+    Robótica Educacional
+    UX
+  </h3>
   <center>
 <table>
     <tr>
