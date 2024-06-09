@@ -6,7 +6,7 @@
 
 📫 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. <br>
 
-⚡ Aqui está um link para meu LinkedIn: <a href='https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/'><button>Link para o LinkedIn</button></a> <br>
+⚡ Aqui está um link para meu LinkedIn: <a href='https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/'><button>Meu LinkedIn</button></a> <br>
 
 😄 Obrigado por visitar meu perfil
 <h3/>
@@ -38,16 +38,6 @@
   <img align="center" alt="Figma" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
 </div>
   
-<h2>❤️ Hobbies<h2/>
-<h3>
-  
-- Sou uma intusiasta pelo Universo Maker 
-  
-- No tempo livre amo 📚 ler, 🎥 criar vídeos para o TikTok, 📺 assistir "O SENHOR DOS ANÉIS" kkkk...
-- Assisto vários 🎥 animes como Naruto, Komi Can't Communicate, Ajin: Demi-Human...
-- Sou uma 📺 dorameiro de plantão, os que eu mais gostei foram: Descendants of the Sun, Vincenzo, It's okay to not be okay, Business Proposal...
-<h3/>
-
 <h2>Onde me encontrar? 🔍<h2>
 <div> 
   <a href = "mailto:steffane.castro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
