@@ -44,4 +44,5 @@
   <a href="https://www.linkedin.com/in/steffane-de-oliveira-castro-6908a8192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/steffane.cass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.tiktok.com/@steffane.cass?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/-TikTok-%23333?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@duotechtalk" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4401F?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
 </div>
